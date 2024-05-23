@@ -1,5 +1,7 @@
 # Implementation of Visual Tracking for Planar Markers
 
+![AR Project Demo](arprojectdemo.gif)
+
 ## Purpose:
 The primary goal of this project was to manually implement the visual tracking of planar markers without using any ready-made SDKs like ARCore or easyAR. The project aimed to replicate the effects similar to a previous experiment using both natural and artificial markers.
 
